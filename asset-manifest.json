@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/college-club-registration-form/static/css/main.5a25c260.chunk.css",
+    "main.js": "/college-club-registration-form/static/js/main.afb3f835.chunk.js",
+    "main.js.map": "/college-club-registration-form/static/js/main.afb3f835.chunk.js.map",
+    "runtime-main.js": "/college-club-registration-form/static/js/runtime-main.bf427632.js",
+    "runtime-main.js.map": "/college-club-registration-form/static/js/runtime-main.bf427632.js.map",
+    "static/js/2.b9f503ed.chunk.js": "/college-club-registration-form/static/js/2.b9f503ed.chunk.js",
+    "static/js/2.b9f503ed.chunk.js.map": "/college-club-registration-form/static/js/2.b9f503ed.chunk.js.map",
+    "index.html": "/college-club-registration-form/index.html",
+    "static/css/main.5a25c260.chunk.css.map": "/college-club-registration-form/static/css/main.5a25c260.chunk.css.map",
+    "static/js/2.b9f503ed.chunk.js.LICENSE.txt": "/college-club-registration-form/static/js/2.b9f503ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf427632.js",
+    "static/js/2.b9f503ed.chunk.js",
+    "static/css/main.5a25c260.chunk.css",
+    "static/js/main.afb3f835.chunk.js"
+  ]
+}
